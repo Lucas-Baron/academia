@@ -1,0 +1,22 @@
+{
+  "instructors": [
+    {
+      "id": 1,
+      "avatar_url": "https://google.com",
+      "birth": 1614470400000,
+      "created_at": 1616094142634,
+      "gender": "M",
+      "services": "Designer",
+      "name": "Lucas Baron"
+    },
+    {
+      "id": 2,
+      "avatar_url": "https://google.com",
+      "name": "Lucas Baron",
+      "birth": 1616544000000,
+      "gender": "M",
+      "services": "Designer",
+      "created_at": 1616094345261
+    }
+  ]
+}
